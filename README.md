@@ -1,8 +1,16 @@
 <h1>Módulo 1 - Fundamentos do Desenvolvimento Web</h1>
 Este é um módulo de preparação para para os módulos de back-end e front-end!
+<hr>
+
+<h3>⭐ Bloco 01: Unix & Bash</h3>
+<hr>
+
+<h3>⭐ Bloco 02: Git, GitHub e Internet</h3>
+<hr>
 
 <h3>⭐ Bloco 03: Introdução à HTML e CSS</h3>
 <hr>
+
 <strong>📌 Exercicios 3.1 - HTML & CSS - Estruturas de página:</strong>
 <ul>
   <li>Construindo seu primeiro Portfólio Web!</li>
@@ -29,6 +37,7 @@ Este é um módulo de preparação para para os módulos de back-end e front-end
 
 <h3>⭐ Bloco 04: Introdução à JavaScript</h3>
 <hr>
+
 <strong>📌 Exercicios 4.1 - Primeiros Passos JavaScript:</strong>
 <ul>
   <li>JavaScript: Primeiros Passos!</li>
@@ -52,6 +61,7 @@ Este é um módulo de preparação para para os módulos de back-end e front-end
   <li>JavaScript: Primeiros Passos!</li>
   <a href="https://github.com/AriSales/Exercicios.Trybe/tree/main/M%C3%B3dulo%201/BLOCO4/Exercicio4.4">Resposta.</a>
 </ul>
+
 <h3>⭐ Bloco 05: JavaScript: DOM, Eventos e Web Storage</h3>
 <hr>
 
