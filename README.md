@@ -30,7 +30,7 @@ Este é um módulo de preparação para para os módulos de back-end e front-end
 <strong>🧃 Projeto 1 - Lessons Learned</strong>
 <ol>
     <li>Você deve desenvolver uma página HTML estilizada com CSS. Através desta aplicação, será possível realizar a construção de código HTML, posicionamento e estilização CSS.</li>
-    <a href="">Link.</a>
+    <a href="https://github.com/tryber/sd-019-a-project-lessons-learned/tree/Ari-Sales-lessons-learned">Link.</a>
 </ol>
 
 <h3>⭐ Bloco 04: Introdução à JavaScript</h3>
@@ -62,7 +62,7 @@ Este é um módulo de preparação para para os módulos de back-end e front-end
 <strong>🧃 Projeto 2 - Playground Functions</strong>
 <ol>
     <li>Você vai implementar funções a partir de requisitos; Você vai desenvolver funções seguindo os requisitos especificados para o correto comportamento de cada uma delas.</li>
-    <a href="">Link.</a>
+    <a href="https://github.com/tryber/sd-019-a-project-playground-functions/tree/ari-sales-playground-functions">Link.</a>
 </ol>
 
 <h3>⭐ Bloco 05: JavaScript: DOM, Eventos e Web Storage</h3>
