@@ -1,8 +1,6 @@
 <h1>Módulo 1 - Fundamentos do Desenvolvimento Web</h1>
 Este é um módulo de preparação para para os módulos de back-end e front-end!
 
-<h2>🧃 Atenção, as respostas dos exercícios estão nas branchs! 🧃</h2>
-
 <h3>⭐ Bloco 03: Introdução à HTML e CSS</h3>
 <hr>
 <strong>📌 Exercicios 3.1 - HTML & CSS - Estruturas de página:</strong>
