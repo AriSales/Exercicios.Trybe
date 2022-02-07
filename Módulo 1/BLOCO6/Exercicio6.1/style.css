@@ -1,0 +1,75 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    text-align: center;
+  }
+  
+  body {
+    background-color: rgb(31, 46, 59);
+    font-family: "Helvetica", "Arial", sans-serif;
+    font-size: 16px;
+    line-height: 1.3;
+  }
+  
+#title{
+    background-color: rgb(12, 21, 29);
+    color: white;
+    margin-bottom: 25px;
+}
+
+.espaco {
+    margin-top: 25px;
+}
+
+.personal-datas {
+    background-color: #fafcfe;
+    padding: 15px;
+    margin: auto;
+    width: 500px;
+    margin-top: 25px;
+}
+
+.personal-datas input[type="text"]{
+    background-color: rgb(245, 245, 245);
+    border: 1px solid rgb(0, 0, 0);
+    border-radius: 3px;
+    width: 100%;
+    padding: 15px;
+    font-size: 14px;
+    transition: 0.2s;
+}
+.personal-datas input[type="text"]:hover{
+    background-color: rgb(255, 246, 254);
+    border: 1px solid rgb(234, 0, 255);
+}
+
+#enviar {
+    background-color: rgb(255, 255, 255);
+    border: 1px solid rgb(0, 0, 0);
+    border-radius: 3px;
+    padding: 7px;
+    width: 15%;
+    font-size: 14px;
+    transition: 0.2s;
+    margin-bottom: 25px;
+}
+#enviar:hover {
+    transform: scale(1.1);
+}
+.txt{
+    text-align: left;
+    font-weight:lighter;
+    font-family: "Haas Grot Text R Web", "Helvetica Neue", Helvetica, Arial, sans-serif;
+    color: #3d3d4e;
+}
+
+textarea {
+    background-color: rgb(245, 245, 245);
+    border: 1px solid rgb(0, 0, 0);
+    border-radius: 3px;
+    width: 100%;
+    padding: 15px;
+    font-size: 14px;
+    transition: 0.2s;
+}
